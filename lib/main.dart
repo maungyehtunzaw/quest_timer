@@ -230,6 +230,7 @@ class TimerScreenState extends State<TimerScreen> {
                           _timer.cancel();
                           _start = 0;
                           _timerText = "00:00:00";
+                          _isTimerRunning = false;
                         });
                       },
                       child: const Text("STOP"),
