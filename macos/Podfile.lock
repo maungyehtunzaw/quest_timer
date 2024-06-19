@@ -1,0 +1,42 @@
+PODS:
+  - apple_vision_face_detection (0.0.2):
+    - Flutter
+    - FlutterMacOS
+  - camera_macos (0.0.1):
+    - FlutterMacOS
+  - FlutterMacOS (1.0.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - screen_capturer_macos (0.0.1):
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - apple_vision_face_detection (from `Flutter/ephemeral/.symlinks/plugins/apple_vision_face_detection/darwin`)
+  - camera_macos (from `Flutter/ephemeral/.symlinks/plugins/camera_macos/macos`)
+  - FlutterMacOS (from `Flutter/ephemeral`)
+  - path_provider_foundation (from `Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin`)
+  - screen_capturer_macos (from `Flutter/ephemeral/.symlinks/plugins/screen_capturer_macos/macos`)
+
+EXTERNAL SOURCES:
+  apple_vision_face_detection:
+    :path: Flutter/ephemeral/.symlinks/plugins/apple_vision_face_detection/darwin
+  camera_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/camera_macos/macos
+  FlutterMacOS:
+    :path: Flutter/ephemeral
+  path_provider_foundation:
+    :path: Flutter/ephemeral/.symlinks/plugins/path_provider_foundation/darwin
+  screen_capturer_macos:
+    :path: Flutter/ephemeral/.symlinks/plugins/screen_capturer_macos/macos
+
+SPEC CHECKSUMS:
+  apple_vision_face_detection: 6706995f64d9298d3066ff201c77e18716490f52
+  camera_macos: c2603f5eed16f05076cf17e12030d2ce55a77839
+  FlutterMacOS: 8f6f14fa908a6fb3fba0cd85dbd81ec4b251fb24
+  path_provider_foundation: 2b6b4c569c0fb62ec74538f866245ac84301af46
+  screen_capturer_macos: e91a66e1eeefd5e4fe068bb1bffc053cc34b63b8
+
+PODFILE CHECKSUM: 236401fc2c932af29a9fcf0e97baeeb2d750d367
+
+COCOAPODS: 1.15.2
